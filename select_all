@@ -1,0 +1,2 @@
+SELECT id, imdb_id
+	FROM public.movie_ids ORDER BY id DESC
